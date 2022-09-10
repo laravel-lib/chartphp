@@ -1,0 +1,21 @@
+{
+    "name": "laravel-lib/chartphp",
+    "description": "Laravel library chart PHP backend.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zulkifli Mohamed",
+            "email": "mr.putera@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaravelLib\\ChartPHP\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
